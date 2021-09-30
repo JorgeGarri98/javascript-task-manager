@@ -1,2 +1,2 @@
-# Typescript Task Manager
+# Javascript Task Manager
 
